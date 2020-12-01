@@ -40,7 +40,7 @@
 The 'source' file.
 -->
 <FILE Name="/boot/config/plugins/&name;/&name;-&version;-x86_64-1.txz" Run="upgradepkg --install-new">
-<URL>https://gitee.com/love618/unRAID-chs-project/raw/master/release/&name;-&version;-x86_64-1.txz</URL>
+<URL>https://github.com/zcjschina/urchs/blob/main/&name;-&version;-x86_64-1.txz</URL>
 </FILE>
 
 <!--
